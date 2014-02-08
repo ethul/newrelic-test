@@ -1,0 +1,12 @@
+.*swp
+.cache
+stdout
+bin/
+db/
+dist/
+lib/
+logs/
+modules/
+target/
+test-result/
+tmp/
