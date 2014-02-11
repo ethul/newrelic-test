@@ -285,6 +285,7 @@ common: &default_settings
     #
     # excludes: com/custom/MyClass, com/custom/MyOtherClass
 
+  api_host: rpm.newrelic.com
 
 # Application Environments
 # ------------------------------------------
